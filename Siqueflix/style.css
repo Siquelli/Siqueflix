@@ -1,0 +1,53 @@
+body {
+    background-image: url(https://www.teahub.io/photos/full/40-406075_cinema-curtain-background-hd.jpg);
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    align-items: center;
+}
+.page-title {
+    color: white;
+    text-align: center;
+    padding: 50px;
+    font-size: 60px;
+}
+/* div {    
+    width: 182px;
+    text-align: center;
+    height: 300px;
+    color: white;
+    margin: auto;
+} */
+h2 {
+    color: white;       
+    text-align: center;    
+    font-size: 25px;
+    align-items: center;      
+}
+.second-title {
+    color: white;
+    font-size: 45px;
+    text-align: center;
+}
+input {
+    color: white;
+    font-size: 50px;
+}
+#div1 {
+    text-align: center;
+}
+label{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+.button {
+    background: rgb(133, 2, 2);
+    font-family: inherit;
+    font-size: 20px;
+    box-shadow: 4px 4px 10px black;    
+}
+#filmesENomes{
+    width: 182px;
+    margin: auto;
+}
+
